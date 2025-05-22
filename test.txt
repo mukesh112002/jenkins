@@ -1,0 +1,14 @@
+console.log("Hello");
+ 
+This is a sample text file created.
+ 
+public class HelloWorld {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello!");
+
+    }
+
+}
+ 
